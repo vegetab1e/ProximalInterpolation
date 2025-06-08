@@ -1,0 +1,9 @@
+.vs/
+bin/
+build/
+
+*.user
+*.filters
+
+*.json
+!config.json
