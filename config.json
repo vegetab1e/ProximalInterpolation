@@ -1,0 +1,9 @@
+{
+    "known_points_fn": "known_points.json",
+    "unknown_points_fn": "unknown_points.json",
+    "output_fn": "output.json",
+    "num_neighbors": 1000,
+    "reverse_search": false,
+    "idw_power": 2.0,
+    "json_indent": 4
+}
